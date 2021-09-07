@@ -5,7 +5,7 @@
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/3b1e6004-9db9-41ed-99b3-8c76012efbd6/deploy-status)](https://app.netlify.com/sites/braking-bad-quote/deploys)
 
-[!Ir a la app](https://api.netlify.com/api/v1/badges/3b1e6004-9db9-41ed-99b3-8c76012efbd6/deploy-status)](https://app.netlify.com/sites/braking-bad-quote/deploys)
+#[Ir a la app](https://api.netlify.com/api/v1/badges/3b1e6004-9db9-41ed-99b3-8c76012efbd6/deploy-status)](https://app.netlify.com/sites/braking-bad-quote/deploys)
 
 ## Dependencias
 
